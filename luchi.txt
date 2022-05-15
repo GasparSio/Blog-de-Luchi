@@ -1,4 +1,9 @@
 Hola. Soy Lucia.
 Tengo 24 años y soy de Argentina. Y vivo en Barcelona, España.
+<<<<<<< HEAD
 Master 1.
 Master 2.
+=======
+Experimento 1.
+Master 1.
+>>>>>>> 3a68837 (Experimento 1)
